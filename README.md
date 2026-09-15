@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Building scalable, responsive and accessible web applications —<br/>
-  React &amp; TypeScript on the front, Spring Boot / Node / Django behind it.
+  Building scalable, responsive and accessible web &amp; mobile applications —<br/>
+  React, React Native &amp; TypeScript on the front, Spring Boot / Node / Django / FastAPI behind it.
 </p>
 
 <p align="center">
@@ -22,6 +22,8 @@
 - 🏢 Fullstack Developer at **[Alpide](https://alpide.com)** since Jan 2022, working across an **ERP / CRM product suite**
 - 🎯 I own frontend features **end-to-end** — requirements and technical design through development, testing, deployment and monitoring
 - 🧩 Strong on **component-driven development and design systems**, with a focus on accessible, high-performance UI
+- 📱 Build cross-platform **mobile apps with React Native + Expo**, sharing business logic with the web platform
+- 🐍 Write **Python** services — Django REST Framework and FastAPI — for async, high-performance APIs
 - 🔌 Comfortable across the stack: **Spring Boot** and **Django REST Framework** services, **Node.js** tooling, **MySQL** schema design and query optimization
 - 🤖 Use **AI coding assistants** (Claude, ChatGPT, Copilot) as part of my daily workflow — prototyping, refactoring, code review and documentation
 - 🎓 **B.Tech in Computer Science**, Dr. A.P.J. Abdul Kalam Technical University (MIET), 2018–2022
@@ -50,6 +52,11 @@
 
 <sub>Day to day I also work with **Ant Design**, **MUI**, **Tailwind**, **AG Grid** and **ApexCharts**.</sub>
 
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -73,6 +80,7 @@
 | 🧾 **ERP / CRM suite** | Lead and CRM management modules in React + TypeScript, on a structured design-token and component system |
 | 💬 **Communications Hub** | Multi-channel inbox integrating WhatsApp, SMS, Email and LinkedIn |
 | 📣 **Campaign management** | Campaign tooling with analytics and a template builder |
+| 📱 **Mobile CRM app** | React Native + Expo app for the ERP/CRM suite — barcode scanning, camera, secure storage and offline-capable storage, sharing business logic with the web |
 | ⚙️ **ERP backend** | Backend functionality in Java / Spring Boot, plus REST APIs with Django REST Framework and FastAPI |
 | 📄 **PDF generation service** | High-performance Node.js service using caching strategies to improve reliability and response times |
 | 🛍️ **E-commerce sites** | Next.js with SSR for SEO and performance — product recommendations and user authentication |
