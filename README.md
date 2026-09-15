@@ -19,16 +19,14 @@
 
 ### About me
 
-- 🏢 Fullstack Developer at **[Alpide](https://alpide.com)** since Jan 2022, working across an **ERP / CRM product suite**
-- ⚙️ Build and maintain services in a **Spring Boot microservices architecture** — accounting, CRM, inventory, manufacturing, sales, purchase and more, behind an API gateway with service discovery, a central config server and SSO
-- 🔗 Design **REST APIs and inter-service contracts** (OpenFeign), and own the **MySQL** layer — schema design, complex queries, performance tuning, and migration/transformation scripts
-- 🐍 Write **Python** services — Django REST Framework and FastAPI — for async, high-performance endpoints
-- ⚡ Built a **Node.js PDF generation service**, using caching to cut response times
-- ☁️ Deploy and monitor on **AWS** (S3, RDS) — **AWS Certified Developer – Associate**
-- 🖥️ On the client side: **React + TypeScript** with a design-token and component system, **Next.js** with SSR, and **React Native + Expo** apps sharing business logic with the web
-- 🤖 Use **AI coding assistants** (Claude, ChatGPT, Copilot) daily — prototyping, refactoring, code review and documentation
+- ⚙️ I work mostly on the **backend** — Spring Boot microservices, REST API and inter-service contract design, and the database layer underneath
+- 🗃️ Comfortable owning **MySQL** end to end: schema design, complex queries, performance tuning, and migration scripts
+- 🐍 Write **Python** services with Django REST Framework and FastAPI where async throughput matters
+- ⚡ Build **Node.js** services, and have a soft spot for making slow ones fast
+- ☁️ Deploy and monitor on **AWS** — **AWS Certified Developer – Associate**
+- 🖥️ On the client side: **React + TypeScript**, **Next.js** with SSR, and **React Native + Expo**
+- 🤖 Currently building an LLM agent that reviews pull requests — see [code-review-agent](https://github.com/Chiragtyagi03/code-review-agent)
 - 🎓 **B.Tech in Computer Science**, Dr. A.P.J. Abdul Kalam Technical University (MIET), 2018–2022
-- 📜 **AWS Certified Developer – Associate**
 
 ---
 
@@ -45,22 +43,21 @@
 
 **Backend & APIs**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<sub>Working in a **microservices** estate — API gateway, service registry, config server, SSO, and **OpenFeign** for service-to-service calls.</sub>
+<sub>Microservices — API gateway, service discovery, centralised config, SSO, and service-to-service calls over **OpenFeign**.</sub>
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-<sub>Day to day I also work with **Ant Design**, **MUI**, **Tailwind**, **AG Grid** and **ApexCharts**.</sub>
+<sub>Also **Ant Design**, **MUI**, **Tailwind**, **AG Grid** and **ApexCharts**.</sub>
 
 **Mobile**
 
@@ -71,27 +68,17 @@
 
 ![AWS](https://img.shields.io/badge/AWS_(S3_·_RDS)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-### What I've been building at Alpide
+### Projects
 
-| | |
-|---|---|
-| ⚙️ **ERP backend services** | Java / Spring Boot microservices across accounting, CRM, inventory, manufacturing, sales and purchase domains — REST APIs, inter-service contracts over OpenFeign, plus Python services with Django REST Framework and FastAPI |
-| 📄 **PDF generation service** | High-performance Node.js service using caching strategies to improve reliability and response times |
-| 🗃️ **Data layer** | MySQL schema design, complex query optimization, and migration/transformation scripts across ERP modules |
-| 💬 **Communications Hub** | Multi-channel inbox integrating WhatsApp, SMS, Email and LinkedIn |
-| 🧾 **ERP / CRM suite** | Lead and CRM management modules in React + TypeScript, on a structured design-token and component system |
-| 📣 **Campaign management** | Campaign tooling with analytics and a template builder |
-| 🛍️ **E-commerce sites** | Next.js with SSR for SEO and performance — product recommendations and user authentication |
-| 📱 **Mobile CRM app** | React Native + Expo app for the ERP/CRM suite — barcode scanning, camera, secure storage and offline-capable storage, sharing business logic with the web |
-
----
-
-### Personal projects
+**🔍 [Code Review Agent](https://github.com/Chiragtyagi03/code-review-agent)** · `Python` `LangGraph` `FastAPI` `Streamlit`  
+An agent that reviews GitHub pull requests — fetches the diff, finds bugs and security issues, suggests refactors, and writes the review comment. Bring-your-own-key across five model providers, so it runs at zero cost.  
+[Source](https://github.com/Chiragtyagi03/code-review-agent)
 
 **🍳 [Recipe Search System](https://chiragforkify.netlify.app/)** · `JavaScript` `REST APIs` `Responsive Design`  
 Search, bookmark and add recipes, with dynamic search and filtering. Includes a serving-size calculator that recalculates ingredient quantities on the fly.  
