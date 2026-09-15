@@ -12,6 +12,7 @@
 <p align="center">
   <a href="mailto:chiragtyagi499@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Chiragtyagi03?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/chiragtyagi03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Developer – Associate" />
 </p>
 
@@ -103,6 +104,7 @@ Track and visualise workouts on an interactive map — mark locations, record ac
 
 <p align="center">
   <a href="mailto:chiragtyagi499@gmail.com"><img src="https://img.shields.io/badge/chiragtyagi499@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/chiragtyagi03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center"><i>Open to interesting problems — feel free to reach out.</i></p>
