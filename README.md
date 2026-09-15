@@ -80,14 +80,6 @@
 An agent that reviews GitHub pull requests — fetches the diff, finds bugs and security issues, suggests refactors, and writes the review comment. Bring-your-own-key across five model providers, so it runs at zero cost.  
 [Source](https://github.com/Chiragtyagi03/code-review-agent)
 
-**🍳 [Recipe Search System](https://github.com/Chiragtyagi03/recipeSearch)** · `JavaScript` `REST APIs` `Responsive Design`  
-Search, bookmark and add recipes, with dynamic search and filtering. Includes a serving-size calculator that recalculates ingredient quantities on the fly.  
-[Source](https://github.com/Chiragtyagi03/recipeSearch) — _live demo offline_
-
-**🗺️ [Mapty](https://chiragmap.netlify.app)** · `JavaScript` `Leaflet.js`  
-Track and visualise workouts on an interactive map — mark locations, record activities, calculate distances, with local persistence so progress is kept between sessions.  
-[Live demo](https://chiragmap.netlify.app) · [Source](https://github.com/Chiragtyagi03/map-project)
-
 ---
 
 ### GitHub
