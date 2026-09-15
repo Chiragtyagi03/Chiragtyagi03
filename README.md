@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Chirag Tyagi 👋</h1>
 
 <p align="center">
-  <b>Fullstack Software Development Engineer</b> · Frontend-heavy · 3+ years
+  <b>Fullstack Software Development Engineer</b> · 3+ years
 </p>
 
 <p align="center">
-  Building scalable, responsive and accessible web &amp; mobile applications —<br/>
-  React, React Native &amp; TypeScript on the front, Spring Boot / Node / Django / FastAPI behind it.
+  I build <b>distributed backend systems</b> and the <b>web &amp; mobile clients</b> that run on them —<br/>
+  Spring Boot microservices, Python and Node services, React &amp; React Native on top.
 </p>
 
 <p align="center">
@@ -20,12 +20,13 @@
 ### About me
 
 - 🏢 Fullstack Developer at **[Alpide](https://alpide.com)** since Jan 2022, working across an **ERP / CRM product suite**
-- 🎯 I own frontend features **end-to-end** — requirements and technical design through development, testing, deployment and monitoring
-- 🧩 Strong on **component-driven development and design systems**, with a focus on accessible, high-performance UI
-- 📱 Build cross-platform **mobile apps with React Native + Expo**, sharing business logic with the web platform
-- 🐍 Write **Python** services — Django REST Framework and FastAPI — for async, high-performance APIs
-- 🔌 Comfortable across the stack: **Spring Boot** and **Django REST Framework** services, **Node.js** tooling, **MySQL** schema design and query optimization
-- 🤖 Use **AI coding assistants** (Claude, ChatGPT, Copilot) as part of my daily workflow — prototyping, refactoring, code review and documentation
+- ⚙️ Build and maintain services in a **Spring Boot microservices architecture** — accounting, CRM, inventory, manufacturing, sales, purchase and more, behind an API gateway with service discovery, a central config server and SSO
+- 🔗 Design **REST APIs and inter-service contracts** (OpenFeign), and own the **MySQL** layer — schema design, complex queries, performance tuning, and migration/transformation scripts
+- 🐍 Write **Python** services — Django REST Framework and FastAPI — for async, high-performance endpoints
+- ⚡ Built a **Node.js PDF generation service**, using caching to cut response times
+- ☁️ Deploy and monitor on **AWS** (S3, RDS) — **AWS Certified Developer – Associate**
+- 🖥️ On the client side: **React + TypeScript** with a design-token and component system, **Next.js** with SSR, and **React Native + Expo** apps sharing business logic with the web
+- 🤖 Use **AI coding assistants** (Claude, ChatGPT, Copilot) daily — prototyping, refactoring, code review and documentation
 - 🎓 **B.Tech in Computer Science**, Dr. A.P.J. Abdul Kalam Technical University (MIET), 2018–2022
 - 📜 **AWS Certified Developer – Associate**
 
@@ -42,6 +43,15 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<sub>Working in a **microservices** estate — API gateway, service registry, config server, SSO, and **OpenFeign** for service-to-service calls.</sub>
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,13 +67,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 **Cloud, data & tooling**
 
 ![AWS](https://img.shields.io/badge/AWS_(S3_·_RDS)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -77,14 +80,14 @@
 
 | | |
 |---|---|
-| 🧾 **ERP / CRM suite** | Lead and CRM management modules in React + TypeScript, on a structured design-token and component system |
-| 💬 **Communications Hub** | Multi-channel inbox integrating WhatsApp, SMS, Email and LinkedIn |
-| 📣 **Campaign management** | Campaign tooling with analytics and a template builder |
-| 📱 **Mobile CRM app** | React Native + Expo app for the ERP/CRM suite — barcode scanning, camera, secure storage and offline-capable storage, sharing business logic with the web |
-| ⚙️ **ERP backend** | Backend functionality in Java / Spring Boot, plus REST APIs with Django REST Framework and FastAPI |
+| ⚙️ **ERP backend services** | Java / Spring Boot microservices across accounting, CRM, inventory, manufacturing, sales and purchase domains — REST APIs, inter-service contracts over OpenFeign, plus Python services with Django REST Framework and FastAPI |
 | 📄 **PDF generation service** | High-performance Node.js service using caching strategies to improve reliability and response times |
-| 🛍️ **E-commerce sites** | Next.js with SSR for SEO and performance — product recommendations and user authentication |
 | 🗃️ **Data layer** | MySQL schema design, complex query optimization, and migration/transformation scripts across ERP modules |
+| 💬 **Communications Hub** | Multi-channel inbox integrating WhatsApp, SMS, Email and LinkedIn |
+| 🧾 **ERP / CRM suite** | Lead and CRM management modules in React + TypeScript, on a structured design-token and component system |
+| 📣 **Campaign management** | Campaign tooling with analytics and a template builder |
+| 🛍️ **E-commerce sites** | Next.js with SSR for SEO and performance — product recommendations and user authentication |
+| 📱 **Mobile CRM app** | React Native + Expo app for the ERP/CRM suite — barcode scanning, camera, secure storage and offline-capable storage, sharing business logic with the web |
 
 ---
 
