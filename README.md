@@ -13,6 +13,7 @@
   <a href="mailto:chiragtyagi499@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Chiragtyagi03?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/chiragtyagi03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://chiragwork.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Developer – Associate" />
 </p>
 
@@ -26,7 +27,8 @@
 - ⚡ Build **Node.js** services, and have a soft spot for making slow ones fast
 - ☁️ Deploy and monitor on **AWS** — **AWS Certified Developer – Associate**
 - 🖥️ On the client side: **React + TypeScript**, **Next.js** with SSR, and **React Native + Expo**
-- 🤖 Currently building an LLM agent that reviews pull requests — see [code-review-agent](https://github.com/Chiragtyagi03/code-review-agent)
+- 🤖 Build **LLM-powered products** — multi-provider AI gateways, tool-calling assistants, vision/OCR pipelines and **LangGraph** agents
+- 🚀 Currently shipping [**Dayforge**](https://app.chiragwork.com), an AI life OS, and a [**Code Review Agent**](https://codereview.chiragwork.com) for pull requests
 - 🎓 **B.Tech in Computer Science**, Dr. A.P.J. Abdul Kalam Technical University (MIET), 2018–2022
 
 ---
@@ -65,10 +67,22 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
+**AI & LLMs**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<sub>Tool calling, multi-provider fallback, vision/OCR pipelines, prompt engineering.</sub>
+
 **Cloud, data & tooling**
 
 ![AWS](https://img.shields.io/badge/AWS_(S3_·_RDS)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -77,17 +91,13 @@
 
 ### Projects
 
-**🔍 [Code Review Agent](https://github.com/Chiragtyagi03/code-review-agent)** · `Python` `LangGraph` `FastAPI` `Streamlit`  
-An agent that reviews GitHub pull requests — fetches the diff, finds bugs and security issues, suggests refactors, and writes the review comment. Bring-your-own-key across five model providers, so it runs at zero cost.  
-[Source](https://github.com/Chiragtyagi03/code-review-agent)
+**🧭 [Dayforge](https://app.chiragwork.com)** · `React` `TypeScript` `Node.js` `PostgreSQL` `React Native` `LLMs`  
+A personal operating system for money, fitness, food and daily life, on web and mobile. Type, speak, scan a bill or snap a gym machine — a multi-provider LLM gateway (Groq → Gemini → OpenRouter → OpenAI) routes it to the right module, and an assistant with 16 validated tools proposes every change for you to confirm.  
+[Live](https://app.chiragwork.com)
 
-**🍳 [Recipe Search System](https://chiragforkify.netlify.app/)** · `JavaScript` `REST APIs` `Responsive Design`  
-Search, bookmark and add recipes, with dynamic search and filtering. Includes a serving-size calculator that recalculates ingredient quantities on the fly.  
-[Live demo](https://chiragforkify.netlify.app/) · [Source](https://github.com/Chiragtyagi03/recipeSearch)
-
-**🗺️ [Mapty](https://chiragmap.netlify.app)** · `JavaScript` `Leaflet.js`  
-Track and visualise workouts on an interactive map — mark locations, record activities, calculate distances, with local persistence so progress is kept between sessions.  
-[Live demo](https://chiragmap.netlify.app) · [Source](https://github.com/Chiragtyagi03/map-project)
+**🔍 [Code Review Agent](https://codereview.chiragwork.com)** · `Python` `LangGraph` `FastAPI` `Streamlit`  
+An agent that reviews GitHub pull requests — fetches the diff, finds bugs and security issues, and writes the review comment. Bring-your-own-key across five model providers (Groq, Claude, OpenAI, Gemini, Ollama), so it runs at zero cost.  
+[Live](https://codereview.chiragwork.com) · [Source](https://github.com/Chiragtyagi03/code-review-agent)
 
 ---
 
